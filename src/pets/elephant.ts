@@ -1,5 +1,11 @@
 import type { PetSpecies } from "./types.js";
 
+/**
+ * Elephant ascii art
+ * MIT License
+ * Copyright (c) 2026 petsonality contributors
+ * https://github.com/nanami-he/petsonality/blob/main/LICENSE
+ */
 export const elephant: PetSpecies = {
   id: "elephant",
   name: "Elephant",
